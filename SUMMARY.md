@@ -29,6 +29,7 @@
 
 ## System OS
 
+* [\[记录\]CentOS 7 无法yum update](system-os/ji-lu-centos-7-wu-fa-yum-update.md)
 * [\[记录\]CentOS离线安装记录](system-os/ji-lu-centos-li-xian-an-zhuang-ji-lu.md)
 
 ## Apache Maven
